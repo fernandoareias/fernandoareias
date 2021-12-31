@@ -10,8 +10,7 @@
   
 ##
 <div style="display: inline_block" align="center">
-   <a href="https://www.linkedin.com/in/fernando-calheiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:nando.calheirosx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+   
   
   
   ![Snake animation](https://github.com/fernandoareias/fernandoareias/blob/output/github-contribution-grid-snake.svg)
